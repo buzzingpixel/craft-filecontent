@@ -2,7 +2,6 @@
     "name": "buzzingpixel/filecontent",
     "description": "Add flat file content capability to your CraftCMS site",
     "type": "craft-plugin",
-    "version": "1.0.0",
     "keywords": [
         "craft",
         "cms",
@@ -13,6 +12,7 @@
     "authors": [
         {
             "name": "TJ Draper",
+            "email": "tj@buzzingpixel.com",
             "homepage": "https://buzzingpixel.com"
         }
     ],
