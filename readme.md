@@ -1,7 +1,7 @@
 # Craft File Content
 ## Add flat file content capability to your CraftCMS site
 
-Adds Twig variables for getting flat file content.
+A Craft 3 plugin that adds Twig variables for getting flat file content.
 
 ## Configuration
 
