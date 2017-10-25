@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * @author TJ Draper <tj@buzzingpixel.com>
+ * @copyright 2017 BuzzingPixel, LLC
+ * @license Apache-2.0
+ */
+
 namespace buzzingpixel\filecontent;
 
 use buzzingpixel\filecontent\services\ReadFileContentsService;
