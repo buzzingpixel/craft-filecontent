@@ -3,6 +3,10 @@
 
 A Craft 3 plugin that adds Twig variables for getting flat file content.
 
+## Installing
+
+`composer require buzzingpixel/filecontent`
+
 ## Configuration
 
 There is one globally configurable option: `basePath`. This tells the plugin where to look for file content. By default, it looks in `CRAFT_BASE_PATH . '/fileContent'`.
